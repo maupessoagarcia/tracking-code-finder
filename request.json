@@ -1,0 +1,8 @@
+{
+  "filterName": "platformOrderNos",
+  "transactionType": "checkout_deduction",
+  "filterValues": ["2204180-1418", "2203967-1418", "2213676-1436"],
+  "pageSize": 10,
+  "current": 1,
+  "sorter": {}
+}
